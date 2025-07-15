@@ -1,0 +1,416 @@
+[2025-07-07 16:05:49] Listener started
+[2025-07-07 16:05:53] Greeted once on boot
+[2025-07-07 16:06:01] Heard: jar
+[2025-07-07 16:06:20] Heard: jarvis
+[2025-07-07 16:06:20] Command: jarvis
+[2025-07-07 16:06:20] Jarvis launched
+[2025-07-07 16:06:37] Command: who is iron man
+[2025-07-07 16:07:53] Command: tell the time
+[2025-07-07 16:12:36] Command: who is iron man
+[2025-07-07 16:13:49] Command: tell the time
+[2025-07-07 16:13:58] Command: open vs code
+[2025-07-07 16:14:07] Command: open youtube
+[2025-07-07 16:14:13] Command: exit
+[2025-07-07 16:14:35] Command: tell me about python
+[2025-07-07 16:16:36] Command: kya jpt use python or not
+[2025-07-07 16:17:51] Command: exit
+[2025-07-08 08:06:24] Command: time
+[2025-07-08 08:06:35] Command: who is iron man
+[2025-07-08 08:07:23] Command: open vs code
+[2025-07-08 08:07:29] Command: exact
+[2025-07-08 08:07:46] Command: exit
+[2025-07-08 08:09:00] Command: tell me the time
+[2025-07-08 08:09:09] Command: tell me about jarvis
+[2025-07-08 08:09:44] Command: open vs
+[2025-07-08 08:10:37] Command: what is time
+[2025-07-08 08:10:47] Command: tell me about rdj
+[2025-07-08 08:11:43] Command: open vs code
+[2025-07-08 08:11:51] Command: exit
+[2025-07-08 13:33:54] Command: exit
+[2025-07-08 19:04:38] Command: exit
+[2025-07-08 19:07:10] Greeted once on boot
+[2025-07-08 19:07:10] Listener started
+[2025-07-08 19:07:17] Heard: jarvis
+[2025-07-08 19:07:18] Jarvis launched
+[2025-07-08 19:07:56] Command: exit
+[2025-07-08 19:29:53] Greeted once on boot
+[2025-07-08 19:29:53] Listener started
+[2025-07-08 20:42:59] Heard: jarvis
+[2025-07-08 20:42:59] Jarvis launched
+[2025-07-08 20:43:07] Command: exit
+[2025-07-09 10:09:59] Greeted once on boot
+[2025-07-09 10:09:59] Listener started
+[2025-07-09 10:36:44] Greeted once on boot
+[2025-07-09 10:36:44] Listener started
+[2025-07-09 10:36:52] Heard: jarvis
+[2025-07-09 10:36:53] Jarvis launched
+[2025-07-09 10:37:25] Command: jarvis
+[2025-07-09 10:37:32] Heard: jarvis
+[2025-07-09 10:37:32] Jarvis launched
+[2025-07-09 10:37:41] Command: jarvis
+[2025-07-09 10:37:58] Ollama error: Server disconnected without sending a response.
+[2025-07-09 10:38:05] Command: jarvis
+[2025-07-09 10:38:12] Ollama error: [WinError 10061] No connection could be made because the target machine actively refused it
+[2025-07-09 10:38:20] Command: open vs code
+[2025-07-09 10:38:48] Command: wikipedia on addition
+[2025-07-09 10:40:11] Command: jarvis
+[2025-07-09 10:40:45] Command: kaise ho
+[2025-07-09 10:41:00] Command: kya tum hindi mein bol sakte ho
+[2025-07-09 10:41:20] Command: aise kyon bol rahe ho
+[2025-07-09 10:41:35] Command: kisne banaya hai
+[2025-07-09 10:43:08] Command: exit
+[2025-07-09 10:50:48] Heard: jarvis
+[2025-07-09 10:50:48] Jarvis launched
+[2025-07-09 10:50:57] Command: yah time batao
+[2025-07-09 10:51:09] Command: shayad tum hindi samajh rahe ho
+[2025-07-09 10:51:40] Command: he is going to home
+[2025-07-09 10:51:54] Command: hindi mein translate karo ki is going
+[2025-07-09 10:53:45] Command: jarvis
+[2025-07-09 10:54:04] Heard: jarvis
+[2025-07-09 10:54:04] Jarvis launched
+[2025-07-09 10:54:33] Command: jarvis
+[2025-07-09 10:54:48] Heard: jarvis
+[2025-07-09 10:54:48] Jarvis launched
+[2025-07-09 11:06:29] Greeted once on boot
+[2025-07-09 11:06:29] Listener started
+[2025-07-09 11:06:37] Heard: jarvis
+[2025-07-09 11:06:38] Jarvis launched
+[2025-07-09 11:06:53] Command: time
+[2025-07-09 11:07:08] Command: shutdown
+[2025-07-09 11:07:19] Heard: jarvis
+[2025-07-09 11:07:19] Jarvis launched
+[2025-07-09 11:07:33] Command: jarvis
+[2025-07-09 11:08:03] Heard: jarvis
+[2025-07-09 11:08:03] Jarvis launched
+[2025-07-09 11:12:35] Command: jarvis
+[2025-07-09 11:12:51] Heard: jarvis
+[2025-07-09 11:12:52] Jarvis launched
+[2025-07-09 11:13:29] Command: jarvis
+[2025-07-09 11:14:11] Greeted once on boot
+[2025-07-09 11:14:11] Listener started
+[2025-07-09 11:14:18] Heard: jarvis
+[2025-07-09 11:14:18] Jarvis launched
+[2025-07-09 11:14:30] Command: shutdown
+[2025-07-09 11:14:40] Heard: jarvis
+[2025-07-09 11:14:40] Jarvis launched
+[2025-07-09 11:17:07] Command: jarvis
+[2025-07-09 11:17:31] Heard: jarvis
+[2025-07-09 11:17:32] Jarvis launched
+[2025-07-09 11:17:40] Command: open mi store
+[2025-07-09 11:18:09] Command: open vs code
+[2025-07-09 11:18:31] Greeted once on boot
+[2025-07-09 11:18:31] Listener started
+[2025-07-09 11:18:37] Command: jarvis
+[2025-07-09 11:19:02] Command: shutdown
+[2025-07-09 11:19:13] Heard: jarvis
+[2025-07-09 11:19:13] Heard: jarvis
+[2025-07-09 11:19:13] Jarvis launched
+[2025-07-09 11:19:13] Jarvis launched
+[2025-07-09 11:21:17] Command: shutdown
+[2025-07-09 11:21:27] Command: shutdown
+[2025-07-09 11:26:07] Greeted once on boot
+[2025-07-09 11:26:07] Listener started
+[2025-07-09 11:26:15] Heard: jarvis
+[2025-07-09 11:26:15] Jarvis launched
+[2025-07-09 11:27:32] Command: jarvis
+[2025-07-09 11:27:43] Heard: jarvis
+[2025-07-09 11:27:43] Jarvis launched
+[2025-07-09 11:28:00] Command: jarvis
+[2025-07-09 11:28:09] Heard: jarvis
+[2025-07-09 11:28:10] Jarvis launched
+[2025-07-09 11:35:47] Greeted once on boot
+[2025-07-09 11:35:47] Listener started
+[2025-07-09 11:35:55] Heard: shutdown
+[2025-07-09 11:36:01] Heard: shutdown
+[2025-07-09 11:36:13] Heard: jarvis
+[2025-07-09 11:36:14] Jarvis launched
+[2025-07-09 11:36:42] Command: jarvis
+[2025-07-09 11:36:50] Heard: jarvis
+[2025-07-09 11:36:50] Jarvis launched
+[2025-07-09 11:36:58] Command: open chrome
+[2025-07-09 11:37:28] Command: open vs code
+[2025-07-09 11:37:37] Command: shutdown
+[2025-07-09 11:37:39] Shutdown signal created
+[2025-07-09 11:37:40] Shutdown signal detected. Exiting listener.
+[2025-07-09 11:39:49] Greeted once on boot
+[2025-07-09 11:39:49] Listener started
+[2025-07-09 11:39:57] Heard: jarvis
+[2025-07-09 11:39:57] Jarvis launched
+[2025-07-09 11:40:13] Command: shutdown
+[2025-07-09 11:40:31] Heard: jarvis
+[2025-07-09 11:40:31] Jarvis launched
+[2025-07-09 11:40:38] Command: shutdown
+[2025-07-09 11:40:40] Shutdown signal created
+[2025-07-09 11:40:41] Shutdown signal detected. Exiting listener.
+[2025-07-09 11:42:32] Greeted once on boot
+[2025-07-09 11:42:32] Listener started
+[2025-07-09 11:42:39] Heard: jarvis
+[2025-07-09 11:42:39] Jarvis launched
+[2025-07-09 11:43:03] Command: exit
+[2025-07-09 11:43:11] Heard: offline
+[2025-07-09 11:43:20] Heard: offline
+[2025-07-09 11:43:24] Heard: jarvis
+[2025-07-09 11:43:24] Jarvis launched
+[2025-07-09 11:43:31] Command: offline
+[2025-07-09 11:43:39] Heard: pujar bhej
+[2025-07-09 11:43:46] Heard: jarvis
+[2025-07-09 11:43:46] Jarvis launched
+[2025-07-09 11:43:54] Command: shutdown
+[2025-07-09 11:43:56] Shutdown signal created
+[2025-07-09 11:43:56] Shutdown signal detected. Exiting listener.
+[2025-07-09 11:44:54] Greeted once on boot
+[2025-07-09 11:44:54] Listener started
+[2025-07-09 11:45:00] Heard: jarvis
+[2025-07-09 11:45:00] Jarvis launched
+[2025-07-09 11:45:16] Command: jarvis
+[2025-07-09 11:45:23] Heard: jarvis
+[2025-07-09 11:45:23] Jarvis launched
+[2025-07-09 11:45:30] Command: shutdown
+[2025-07-09 11:45:33] Shutdown signal created
+[2025-07-09 11:45:34] Shutdown signal detected. Exiting listener.
+[2025-07-09 11:46:49] Greeted once on boot
+[2025-07-09 11:46:49] Listener started
+[2025-07-09 11:46:55] Heard: jarv
+[2025-07-09 11:47:02] Heard: jarvis
+[2025-07-09 11:47:02] Jarvis launched
+[2025-07-09 11:47:19] Command: jar
+[2025-07-09 11:47:42] Heard: jarvis
+[2025-07-09 11:47:42] Jarvis launched
+[2025-07-09 11:47:59] Command: shutdown
+[2025-07-09 11:48:01] Shutdown signal created
+[2025-07-09 11:48:03] Shutdown signal detected. Exiting listener.
+[2025-07-09 11:48:36] Greeted once on boot
+[2025-07-09 11:48:36] Listener started
+[2025-07-09 11:48:42] Heard: jarvis
+[2025-07-09 11:48:42] Jarvis launched
+[2025-07-09 11:49:07] Command: jarvis
+[2025-07-09 11:49:43] Heard: shutdown
+[2025-07-09 11:49:49] Heard: jarvis
+[2025-07-09 11:49:49] Jarvis launched
+[2025-07-09 11:49:57] Heard: shutdown
+[2025-07-09 11:49:58] Command: shutdown
+[2025-07-09 11:50:00] Shutdown signal created
+[2025-07-09 11:50:03] Shutdown signal detected. Exiting listener.
+[2025-07-09 11:52:38] Greeted once on boot
+[2025-07-09 11:52:38] Listener started
+[2025-07-09 11:52:43] Heard: jarvis
+[2025-07-09 11:52:43] Jarvis launched
+[2025-07-09 11:52:57] Command: time batao
+[2025-07-09 11:53:06] Command: play store khol do
+[2025-07-09 11:55:18] Command: jarvis
+[2025-07-09 11:55:26] Command: tum kyon online ho
+[2025-07-09 11:55:49] Command: yes why you are online
+[2025-07-09 11:56:35] Command: apne bare mein batao
+[2025-07-09 11:59:21] Command: jarvis
+[2025-07-09 11:59:46] Command: jarvis
+[2025-07-09 11:59:54] Command: jarvis
+[2025-07-09 12:00:16] Command: ami tomake
+[2025-07-09 12:00:47] Command: mujhe bangali mein i love u bolo
+[2025-07-09 12:02:08] Command: aur tum kaise ho
+[2025-07-09 12:02:23] Command: hindi mein batao tum kaise ho
+[2025-07-09 12:04:04] Command: you know abusing language
+[2025-07-09 12:04:19] Command: tell me a joke
+[2025-07-09 12:05:14] Command: koi chhoti si hindi ki kahani batao
+[2025-07-09 12:07:41] Command: shutdown
+[2025-07-09 12:07:44] Shutdown signal created
+[2025-07-09 12:07:46] Shutdown signal detected. Exiting listener.
+[2025-07-09 12:12:33] Command: jaleshwar
+[2025-07-09 12:13:10] Command: jarvis va
+[2025-07-09 12:13:26] Command: speak in bhojpuri
+[2025-07-09 12:13:45] Command: speak one paragraph
+[2025-07-09 12:14:24] Command: kuchh panktiyan bhojpuri mein bolo
+[2025-07-09 12:15:52] Command: shutdown
+[2025-07-09 12:15:55] Shutdown signal created
+[2025-07-09 14:08:55] Greeted once on boot
+[2025-07-09 14:08:55] Listener started
+[2025-07-09 14:08:55] Shutdown signal detected. Exiting listener.
+[2025-07-09 15:48:32] Greeted once on boot
+[2025-07-09 15:48:32] Listener started
+[2025-07-09 15:48:39] Heard: jarvis
+[2025-07-09 15:48:39] Jarvis launched
+[2025-07-09 15:48:53] Command: time
+[2025-07-09 15:49:14] Command: who is iron
+[2025-07-09 15:50:00] Command: exit
+[2025-07-09 15:50:07] Heard: jarvis
+[2025-07-09 15:50:08] Jarvis launched
+[2025-07-09 15:50:29] Command: time
+[2025-07-09 15:50:37] Command: shutdown
+[2025-07-09 15:50:39] Shutdown signal created
+[2025-07-09 15:50:40] Shutdown signal detected. Exiting listener.
+[2025-07-09 18:14:50] Greeted once on boot
+[2025-07-09 18:14:50] Listener started
+[2025-07-09 18:15:01] Heard: jarvis
+[2025-07-09 18:15:01] Jarvis launched
+[2025-07-09 18:15:14] Command: shutdown
+[2025-07-09 18:15:16] Shutdown signal created
+[2025-07-09 18:15:17] Shutdown signal detected. Exiting listener.
+[2025-07-09 19:23:59] Greeted once on boot
+[2025-07-09 19:23:59] Listener started
+[2025-07-09 19:24:05] Heard: jarvis
+[2025-07-09 19:24:05] Jarvis launched
+[2025-07-09 19:24:15] Command: shutdown
+[2025-07-09 19:24:17] Shutdown signal created
+[2025-07-09 19:24:19] Shutdown signal detected. Exiting listener.
+[2025-07-10 15:38:36] Greeted once on boot
+[2025-07-10 15:38:36] Listener started
+[2025-07-10 15:38:58] Heard: jarvis
+[2025-07-10 15:38:58] Jarvis launched
+[2025-07-10 15:39:06] Command: shutdown
+[2025-07-10 15:39:08] Shutdown signal created
+[2025-07-10 15:39:09] Shutdown signal detected. Exiting listener.
+[2025-07-10 19:24:06] Greeted once on boot
+[2025-07-10 19:24:06] Listener started
+[2025-07-10 19:24:22] Heard: jarvis
+[2025-07-10 19:24:22] Jarvis launched
+[2025-07-10 19:24:35] Command: shutdown
+[2025-07-10 19:24:37] Shutdown signal created
+[2025-07-10 19:24:38] Shutdown signal detected. Exiting listener.
+[2025-07-11 08:27:55] Greeted once on boot
+[2025-07-11 08:27:55] Listener started
+[2025-07-11 08:28:58] Heard: jarvis
+[2025-07-11 08:28:59] Jarvis launched
+[2025-07-11 08:29:08] Command: shutdown
+[2025-07-11 08:29:10] Shutdown signal created
+[2025-07-11 08:29:19] Shutdown signal detected. Exiting listener.
+[2025-07-11 17:21:04] Greeted once on boot
+[2025-07-11 17:21:04] Listener started
+[2025-07-11 17:21:12] Heard: jarvis
+[2025-07-11 17:21:12] Jarvis launched
+[2025-07-11 17:21:32] Command: shutdown
+[2025-07-11 17:21:35] Shutdown signal created
+[2025-07-11 17:21:42] Shutdown signal detected. Exiting listener.
+[2025-07-11 18:25:23] Greeted once on boot
+[2025-07-11 18:25:23] Listener started
+[2025-07-11 18:25:28] Heard: jarvis
+[2025-07-11 18:25:28] Jarvis launched
+[2025-07-11 18:25:39] Command: shutdown
+[2025-07-11 18:25:42] Shutdown signal created
+[2025-07-11 18:25:42] Shutdown signal detected. Exiting listener.
+[2025-07-11 18:55:19] Greeted once on boot
+[2025-07-11 18:55:19] Listener started
+[2025-07-11 18:55:28] Heard: douglas
+[2025-07-11 18:55:49] Heard: jarvis
+[2025-07-11 18:55:49] Jarvis launched
+[2025-07-11 18:56:25] Command: shutdown
+[2025-07-11 18:56:27] Shutdown signal created
+[2025-07-11 18:56:33] Shutdown signal detected. Exiting listener.
+[2025-07-11 19:07:13] Greeted once on boot
+[2025-07-11 19:07:13] Listener started
+[2025-07-11 19:07:26] Heard: jarvis
+[2025-07-11 19:07:26] Jarvis launched
+[2025-07-11 19:07:34] Command: shutdown
+[2025-07-11 19:07:36] Shutdown signal created
+[2025-07-11 19:07:38] Shutdown signal detected. Exiting listener.
+[2025-07-12 07:01:32] Greeted once on boot
+[2025-07-12 07:01:32] Listener started
+[2025-07-12 07:02:07] Heard: jarvis
+[2025-07-12 07:02:07] Jarvis launched
+[2025-07-12 07:02:34] Command: shutdown
+[2025-07-12 07:02:36] Shutdown signal created
+[2025-07-12 07:02:37] Shutdown signal detected. Exiting listener.
+[2025-07-12 15:24:36] Greeted once on boot
+[2025-07-12 15:24:37] Listener started
+[2025-07-12 15:24:51] Heard: jarvis
+[2025-07-12 15:24:51] Jarvis launched
+[2025-07-12 15:25:27] Command: shutdown
+[2025-07-12 15:25:30] Shutdown signal created
+[2025-07-12 15:25:31] Shutdown signal detected. Exiting listener.
+[2025-07-12 19:16:55] Greeted once on boot
+[2025-07-12 19:16:55] Listener started
+[2025-07-12 19:17:00] Heard: jarvis
+[2025-07-12 19:17:00] Jarvis launched
+[2025-07-12 19:17:11] Command: shutdown
+[2025-07-12 19:17:13] Shutdown signal created
+[2025-07-12 19:17:13] Shutdown signal detected. Exiting listener.
+[2025-07-13 07:21:46] Greeted once on boot
+[2025-07-13 07:21:46] Listener started
+[2025-07-13 07:23:43] Heard: jarvis
+[2025-07-13 07:23:43] Jarvis launched
+[2025-07-13 07:24:02] Command: shutdown
+[2025-07-13 07:24:04] Shutdown signal created
+[2025-07-13 07:24:05] Shutdown signal detected. Exiting listener.
+[2025-07-13 08:25:11] Greeted once on boot
+[2025-07-13 08:25:11] Listener started
+[2025-07-13 08:25:15] Heard: jarvis
+[2025-07-13 08:25:15] Jarvis launched
+[2025-07-13 08:25:46] Command: shutdown
+[2025-07-13 08:25:48] Shutdown signal created
+[2025-07-13 08:25:48] Shutdown signal detected. Exiting listener.
+[2025-07-13 14:16:38] Greeted once on boot
+[2025-07-13 14:16:38] Listener started
+[2025-07-13 14:16:56] Heard: jarvis
+[2025-07-13 14:16:56] Jarvis launched
+[2025-07-13 14:17:04] Command: shutdown
+[2025-07-13 14:17:06] Shutdown signal created
+[2025-07-13 14:17:08] Shutdown signal detected. Exiting listener.
+[2025-07-13 19:12:23] Greeted once on boot
+[2025-07-13 19:12:23] Listener started
+[2025-07-13 19:12:28] Heard: jarvis
+[2025-07-13 19:12:28] Jarvis launched
+[2025-07-13 19:12:42] Command: shutdown
+[2025-07-13 19:12:45] Shutdown signal created
+[2025-07-13 19:12:51] Shutdown signal detected. Exiting listener.
+[2025-07-14 10:17:48] Greeted once on boot
+[2025-07-14 10:17:48] Listener started
+[2025-07-14 10:17:53] Heard: jarvis
+[2025-07-14 10:17:53] Jarvis launched
+[2025-07-14 10:18:05] Command: shutdown
+[2025-07-14 10:18:07] Shutdown signal created
+[2025-07-14 10:18:08] Shutdown signal detected. Exiting listener.
+[2025-07-14 15:55:59] Greeted once on boot
+[2025-07-14 15:55:59] Listener started
+[2025-07-14 15:56:04] Heard: jarvis
+[2025-07-14 15:56:04] Jarvis launched
+[2025-07-14 15:56:26] Command: shut
+[2025-07-14 15:57:03] Command: shutdown
+[2025-07-14 15:57:05] Shutdown signal created
+[2025-07-14 15:57:06] Shutdown signal detected. Exiting listener.
+[2025-07-15 07:43:53] Greeted once on boot
+[2025-07-15 07:43:53] Listener started
+[2025-07-15 07:43:56] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:44:05] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:44:16] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:44:27] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:44:35] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:44:40] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:44:46] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:44:55] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:45:01] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:45:15] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:45:21] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:45:28] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:53:59] Greeted once on boot
+[2025-07-15 07:53:59] Listener started
+[2025-07-15 07:54:03] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:54:09] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:54:21] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:54:25] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:54:28] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:54:42] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:55:06] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:55:15] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:55:19] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:55:33] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:56:36] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:56:40] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:56:44] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:56:49] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:57:49] Greeted once on boot
+[2025-07-15 07:57:49] Listener started
+[2025-07-15 07:57:52] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:57:56] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 07:57:56] Recognition error: recognition connection failed: [Errno 11001] getaddrinfo failed
+[2025-07-15 08:23:30] Heard: jarvis
+[2025-07-15 08:23:30] Jarvis launched
+[2025-07-15 08:23:30] Heard: jarvis
+[2025-07-15 08:23:30] Jarvis launched
+[2025-07-15 08:24:01] Command: shutdown
+[2025-07-15 08:24:01] Command: shutdown
+[2025-07-15 08:24:03] Shutdown signal created
+[2025-07-15 08:24:06] Shutdown signal created
+[2025-07-15 08:24:07] Shutdown signal detected. Exiting listener.
+[2025-07-15 08:27:15] Heard: jarvis
+[2025-07-15 08:27:16] Jarvis launched
+[2025-07-15 08:27:24] Command: shutdown
+[2025-07-15 08:27:26] Shutdown signal created
+[2025-07-15 08:27:31] Shutdown signal detected. Exiting listener.

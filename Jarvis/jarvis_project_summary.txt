@@ -1,0 +1,83 @@
+🎯 Project: Jarvis AI Assistant (Offline Voice + GPT-Enhanced)  
+🧑‍💻 Creator: Parmesh  
+📁 Location: D:\Jarvis  
+🗓️ Last Updated: 2025-07-15  
+
+────────────────────────────────────────────
+✅ PURPOSE:
+
+Build a smart, offline voice-controlled desktop assistant that:
+- Auto-starts silently on system login
+- Listens in background for wake words: "Jarvis" or "Hey Jarvis"
+- Responds in voice using text-to-speech (pyttsx3)
+- Understands spoken commands and responds using GPT (Ollama + LLaMA3)
+- Opens local applications like YouTube, VS Code
+- Sets and manages voice reminders
+- Logs all commands and events
+- Supports hotkeys for exit and full shutdown
+
+────────────────────────────────────────────
+📁 FILE STRUCTURE:
+
+D:\Jarvis\
+├── .venv\                     ← Python virtual environment  
+├── jarvis.pyw                ← Main assistant logic  
+├── shutdown.txt              ← Signal file to stop listener  
+├── start_listener.vbs        ← Auto-start VBS launcher (placed in Startup folder)  
+
+├── listener\  
+│   └── wake_word_listener.py ← Background listener for wake words  
+
+├── logs\  
+│   └── jarvis_log.txt        ← Logs all commands and actions  
+
+────────────────────────────────────────────
+🔧 FEATURES:
+
+🟢 Wake Listener  
+- Runs in background from system startup  
+- Greets the user based on time (morning, afternoon, evening)  
+- Listens for "Jarvis" or "Hey Jarvis"  
+- Plays a beep sound and launches Jarvis on detection  
+- Detects shutdown via shutdown.txt signal  
+
+🧠 Jarvis Assistant  
+- Speaks using pyttsx3  
+- Recognizes commands like:  
+  - "What time is it?"  
+  - "Open YouTube"  
+  - "Open VS Code"  
+  - "Remind me in X minutes to [task]"  
+- Uses Ollama + LLaMA3 for GPT-style smart replies  
+- Logs everything to `jarvis_log.txt`  
+
+🖱️ Hotkeys  
+- `Alt + Q` → Exit Jarvis only  
+- `Alt + W` → Shut down both Jarvis and Listener  
+
+────────────────────────────────────────────
+🧪 USAGE GUIDE:
+
+1. 🔁 Enable Auto-start:
+   - Copy or shortcut `start_listener.vbs` to:
+     ```
+     %AppData%\Microsoft\Windows\Start Menu\Programs\Startup
+     ```
+
+2. 💻 On system login:
+   - Listener starts silently
+   - You hear: "Good morning sir" (or similar)
+   - Waits for you to say: "Jarvis" or "Hey Jarvis"
+
+3. 🎙️ After wake word:
+   - You hear a beep  
+   - Jarvis says: "Yes sir?" and starts listening  
+   - Responds to your command or speaks GPT response
+
+4. ❌ Shutdown Options:
+   - Say “exit” or press `Alt + Q` → Closes Jarvis only  
+   - Say “shutdown” or press `Alt + W` → Closes Jarvis and Listener  
+
+────────────────────────────────────────────
+📦 REQUIREMENTS (requirements.txt):
+

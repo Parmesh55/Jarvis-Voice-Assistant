@@ -1,0 +1,6 @@
+pyttsx3
+speechrecognition
+ollama
+psutil
+keyboard
+pyaudio
